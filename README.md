@@ -4,14 +4,6 @@ EcoTrack is an end-to-end **Data Analyst portfolio project** combining sustainab
 
 > **Important:** All companies, activity data and emissions conversion factors are synthetic. The emissions estimates are illustrative and are **not** suitable for official carbon accounting or regulatory reporting.
 
-## Live dashboard
-
-After enabling GitHub Pages, the root `index.html` becomes the interactive dashboard.
-
-## New to sustainability or SaaS?
-
-Start with **[LEARN_ECOTRACK.md](LEARN_ECOTRACK.md)**. It explains every important concept in plain English.
-
 ## Business problem
 
 EcoTrack is a fictional platform that helps businesses monitor resource use, estimated emissions and sustainability progress while paying a recurring subscription.
