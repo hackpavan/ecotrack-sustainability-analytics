@@ -101,9 +101,6 @@ ecotrack-sustainability-analytics/
 └── README.md
 ```
 
-## Interview explanation
-
-> I built EcoTrack, a synthetic sustainability SaaS analytics project. I modelled business resource usage such as electricity, fuel, travel and waste and converted those activities into illustrative CO₂ estimates. I combined this with subscription and product-engagement data to analyse emissions trends, reduction performance, MRR, churn and retention. I used Python for data preparation, SQL for business analysis and an interactive dashboard to communicate the results.
 
 ## Run locally
 
