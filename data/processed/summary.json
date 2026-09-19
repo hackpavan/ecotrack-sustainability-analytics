@@ -1,0 +1,12 @@
+{
+  "latest_month": "2026-08",
+  "current_mrr": 217332.0,
+  "current_arr": 2607984.0,
+  "active_companies": 1378,
+  "overall_churn": 0.25166666666666665,
+  "latest_emissions_tonnes": 7258.41213,
+  "avg_active_reduction_pct": 4.580582136152006,
+  "top_emissions_source": "Electricity",
+  "highest_emissions_industry": "Manufacturing",
+  "highest_emissions_industry_tonnes": 1974.43643
+}
